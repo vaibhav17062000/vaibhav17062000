@@ -4,11 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices;Open+to+Remote+%26+Freelance+Roles)](https://git.io/typing-svg)
 
-I'm a Java Full Stack Developer from Noida, India freshly out and building real things with real code.
+I'm a Java Full Stack Developer building real things with real code.
 
 I work across the full stack: backend services in **Java + Spring Boot**, frontend UIs with **React.js**, and everything in between — REST APIs, MongoDB, MySQL, Docker basics.
 
-I'm actively looking for **remote work, freelance projects, and full-time roles** where I can ship, learn fast, and contribute from day one.
 
 ---
 
