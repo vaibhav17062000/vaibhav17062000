@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhav17062000&color=blue&style=flat-square&label=Profile+Views)
 
-## Hi, I'm Vaibhav 👋
+## Hi, I'm CWC 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices;Open+to+Remote+%26+Freelance+Roles)](https://git.io/typing-svg)
 
